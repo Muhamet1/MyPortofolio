@@ -1,6 +1,9 @@
 
 export const skills = [
     {
+      skill:"HTML,CSS"
+    },
+    {
       skill: ".Net Core (C#, RESTful APIs, MVC,Identity)"
 
     },
@@ -13,19 +16,16 @@ export const skills = [
      
     },
     {
-      skill: "Java", 
+      skill: "TypeScript", 
     },
     {
       skill:"PHP"
     }
     ,{
-      skill:"HTML,CSS"
+      skill:"SQL(MYSQL,MSSQL)"
     }
     ,{
-      skill:"MSSQL"
-    }
-    ,{
-      skill:"MYSQL"
+      skill:"Git"
     }
   ];
 
