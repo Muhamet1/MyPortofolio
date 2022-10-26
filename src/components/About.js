@@ -14,13 +14,13 @@ const About = () => {
           </div>
           <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
             <div className='sm:text-right text-6xl font-bold'>
-              <p>Hi. I'm Muhamet, nice to meet you. Please take a look around.</p>
+              <p>Hi I'm Muhamet Hajdini, nice to meet you. Please take a look around.</p>
             </div>
             <div className='text-3xl'>
               <p>I am passionate about building excellent software that improves
-              the lives of those around me. I specialize in creating software
-              for clients ranging from individuals and small-businesses all the
-              way to large enterprise corporations.</p>  
+              the lives of those around me.  Proficient in various platforms, languages, and embedded systems.
+               Able to effectively self-manage during independent projects,
+               as well as collaborate as part of a productive team.</p>  
             </div>
           </div>
       </div>
